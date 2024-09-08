@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TextFileGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "2000000"
+    }
+  }
+}
